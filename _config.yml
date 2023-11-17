@@ -1,24 +1,20 @@
-title: Hanlin Cai
+title: YiYun Kang
 # tagline: Here is personal website of Hanlin Cai. Powered by Jekyll, based on the Minimal Mistakes theme.
-description: Two roads diverged in woods, I took the one less traveled by.
+description: Always believe that somethings wonderful are happening in.
 #Comment out url when working locally to resolve base urls correctly
-url: https://caihanlin.com
+url: https://kangyiyun.github.io/
 
 # Owner/author information
 owner:
-  name: Hanlin Cai
-  avatar: hanlin.jpg
+  name: YiYun Kang
+  avatar: kyy.jpg
  # bio:
-  email: hanlin.cai@ieee.org
+  email: kangyiyun@outlook.com
   cv: https://caihanlin.com/file/CV-HanlinCAI.pdf
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
   twitter: lancecai2002
-  github: GuangLun2000
-  linkedin: hanlincai
-  scholar: https://scholar.google.com/citations?user=8igSoWgAAAAJ
-  bilibili: 594030035
-  researchgate: https://www.researchgate.net/profile/Hanlin-Cai
-  zhihu: https://www.zhihu.com/people/chlire
+  github: kangyiyun
+  wechat: 79275400
   # facebook: caihanlin2002
   # instagram: lancecai2002
   # lastfm:
