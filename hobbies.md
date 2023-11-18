@@ -6,14 +6,14 @@ title: Hobbies
 
 # Hobbies
 
-## Swimming & Surfing
+## Swimming & BodyBuliding
 
 <div class="third">
 <img src="/images/swimming2.JPG">
-<img src="/images/swimming.JPG">
-<img src="/images/surfing1.JPG">
+<img src="/images/gym1.JPG">
+<img src="/images/gym2.JPG">
 </div>
-<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I am a member of the Swimming Team at Fuzhou University, where I meet many sincere friends. I have reached **China National Second-level athlete Standard** in 50m breaststroke and won **Five Gold Medals** during my 10-year swimming career. Recently, I am also keen on surfing.
+<br>Swimming removes my worries, refreshes my body, and brings me courage to address any challenges. I extremely enjoy the feeling of being immersed in the water. Besides, I used to be a member of the Swimming Team at ZheJiang Sci-Tech University, where I meet many sincere friends. And I also a bodybuilider. Every time I pushing my body to its limits, my struggles develop my strengths and it helps me to seize the opportunities and conquer the challenges.
 
 ## Workshop
 
@@ -27,19 +27,6 @@ title: Hobbies
 [a fantastic speech]:https://youtu.be/Dzx84KpGNoE
 [best universities in my hometown]:https://www.fzu.edu.cn/
 
-
-## Past Hobbies
-
-I previously enjoyed long-distance running, [vlog making](https://space.bilibili.com/594030035), and computer game developing/playing. However, I have no time to do any of these things recently.
-
-## My Cat
-
-This is my love. Her name is Qbo (Q宝).
-
-<div>
-<img src="/images/cat.JPG">
-</div>
-<br>
 
 ## Chat with me
 
