@@ -18,7 +18,6 @@ title: Awards
 - Nov 2023：Merit Student of ZheJiang Sci-Tech University<br>
 - May 2023：Outstanding munist Youth League member of ZSTU<br>
 <br>
-
 ## Competitions
 - Dec 2022 National English Competition for College Students(NECCS) **National Bronze Award(top 6.8%)**<br>
 - Dec 2022 National Undergraduate Mathematical Contest in Model **Silver Award(top 15%)**<br>
