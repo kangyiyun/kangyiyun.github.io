@@ -15,6 +15,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Academic Background
 
 - **Sep 2021 - now:** ZheJiang Sci-Tech University
+<img src="https://kangyiyun.github.io/kyy.jpg" class="floatpic" width="360" height="480" style="float: right;">
 
 <br>
 
