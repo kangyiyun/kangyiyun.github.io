@@ -21,5 +21,7 @@ title: Awards
 ## Competitions
 - Dec 2022 National English Competition for College Students(NECCS) **National Bronze Award(top 6.8%)**<br>
 - Dec 2022 National Undergraduate Mathematical Contest in Model **Silver Award(top 15%)**<br>
+- Sep 2021 Swimming Competition of ZheJiang Sci-Tech University **4th place**
+- Sep 2023 Swimming Competition of ZheJiang Sci-Tech University **7th place**
 ## Services
 - Oct 2023：Outstanding volunteer at the 19th Asian Games Hangzhou 2022<br>
