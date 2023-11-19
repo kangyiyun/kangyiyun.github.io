@@ -23,11 +23,11 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <br>
 ---
 
-## Publications
+## Selected Publications
 <img src="https://kangyiyun.github.io/illustration.jpg" class="floatpic" width="260" height="180" style="float: right;">
-Stabilizing Cement Burning System via Coal Injection Pipe Feeding Pressure Enabled Temperature Prediction
-Zengji Zhang, Dengming Yong, **Yiyun Kang**,Wei Shen, Xukang Lyu, Dongliang Chu
-**science progress (under review)**
+**Stabilizing Cement Burning System via Coal Injection Pipe Feeding Pressure Enabled Temperature Prediction**<br>
+Zengji Zhang, Dengming Yong, **Yiyun Kang**,Wei Shen, Xukang Lyu, Dongliang Chu<br>
+**science progress (under review)**<br>
 
 ---
 
