@@ -8,7 +8,7 @@ Here is **YiYun Kang (Homer, 康逸云)**.
 
 I am a junior undergraduate student majoring in **computer science** in [the School of Computer Science and Engineering](https://scst.zstu.edu.cn/) at ZheJiang Sci-Tech University with gpa ranking **1/304 (top 1%)**. Currently, I work as a research assistant in the CTL-Lab, advised by Prof.[Shen Wei](https://baike.baidu.com/item/%E6%B2%88%E7%82%9C/50318566?fromModule=lemma_sense-layer#viewPageContent)
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please feel free to email me at - **kangyiyun@outlook.com** or add my wechat-**daydayup_kyy**
+If you are interested in any aspect of me, I would love to chat and collaborate, please feel free to email me at - **2021326602016@mails.zstu.edu.cn** or add my wechat-**daydayup_kyy**
 
 <br>
 
