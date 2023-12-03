@@ -18,7 +18,7 @@ title: Awards
 ## Honors
 
 - Nov 2023：Merit Student of ZheJiang Sci-Tech University<br>
-- Nov 2023：Outstanding talents of ZSTU <br>One of the highest Honors at ZSTU(18/4000).<br>
+- Nov 2023：Outstanding talents of ZSTU <br>One of the highest Honors at ZSTU**(18/4000)**.<br>
 - May 2023：Outstanding munist Youth League member of ZSTU<br>
 
 ## Competitions
