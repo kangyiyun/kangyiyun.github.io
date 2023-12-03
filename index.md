@@ -21,11 +21,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Academic Advisor：Prof.[Shen Wei](https://baike.baidu.com/item/%E6%B2%88%E7%82%9C/50318566?fromModule=lemma_sense-layer#viewPageContent)
 
 <br>
-<img src="https://kangyiyun.github.io/pku.png" class="floatpic" width="260" height="280" style="float: right;">
-**Center for Machine Learning Research, Peking University(PKU)**
-- Dec 2023 - present
-- **Intern**
-- Academic Advisor：Prof.[Wentao Zhang]( https://zwt233.github.io/)
 
 ---
 
