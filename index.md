@@ -8,7 +8,7 @@ Here is **YiYun Kang (Homer, 康逸云)**.
 
 I am a junior undergraduate student majoring in **computer science** in [the School of Computer Science and Engineering](https://scst.zstu.edu.cn/) at ZheJiang Sci-Tech University with gpa ranking **1/304 (top 1%)**. 
 
-Currently, I work as a research assistant in the CTL-Lab, advised by Prof.[Shen Wei](https://baike.baidu.com/item/%E6%B2%88%E7%82%9C/50318566?fromModule=lemma_sense-layer#viewPageContent), And I also work as a intern in DAIR-lab,advised by Prof.[Wentao Zhang]( https://zwt233.github.io/)
+Currently, I work as a research assistant in the CTL-Lab, advised by Prof.[Shen Wei](https://baike.baidu.com/item/%E6%B2%88%E7%82%9C/50318566?fromModule=lemma_sense-layer#viewPageContent) .
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please feel free to email me at - **2021326602016@mails.zstu.edu.cn** or add my wechat-**daydayup_kyy**
 
@@ -22,13 +22,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - GPA Ranking: **1/304**
 - Academic Advisor：Prof.[Shen Wei](https://baike.baidu.com/item/%E6%B2%88%E7%82%9C/50318566?fromModule=lemma_sense-layer#viewPageContent)
 
-
-<img src="https://kangyiyun.github.io/pku.png" class="floatpic" width="260" height="280" style="float: right;">
-**Center for Machine Learning Research, Peking University(PKU)**
-- Dec 2023 - present
-- **Intern**
-- Academic Advisor：Prof.[Wentao Zhang]( https://zwt233.github.io/)
-<br>
 
 ---
 
