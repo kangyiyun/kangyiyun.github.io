@@ -20,7 +20,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Sep 2021 - present
 - **junior undergraduate student**
 - GPA Ranking: **1/304**
-- Academic Advisor：Prof.[Shen Wei](https://baike.baidu.com/item/%E6%B2%88%E7%82%9C/50318566?fromModule=lemma_sense-layer#viewPageContent)
+- Academic Mentor：Prof.[Shen Wei](https://baike.baidu.com/item/%E6%B2%88%E7%82%9C/50318566?fromModule=lemma_sense-layer#viewPageContent)
 
 
 ---
