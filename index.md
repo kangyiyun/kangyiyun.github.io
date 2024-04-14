@@ -6,7 +6,7 @@ layout: page
 <img src="https://kangyiyun.github.io/images/kyy.jpg" class="floatpic" width=20px height=36px style="float: right;">
 Here is **YiYun Kang (Homer, 康逸云)**.
 
-I am a junior undergraduate student majoring in **computer science** in [the School of Computer Science and Engineering](https://scst.zstu.edu.cn/) at ZheJiang Sci-Tech University with gpa ranking **1/304 (top 1%)**. 
+I am a junior undergraduate student majoring in **computer science** in [the School of Computer Science and Engineering](https://scst.zstu.edu.cn/) at ZheJiang Sci-Tech University with gpa ranking **1/177 (top 1%)**. 
 
 Currently, I work as a research assistant in the CTL-Lab, advised by Prof.[Shen Wei](https://baike.baidu.com/item/%E6%B2%88%E7%82%9C/50318566?fromModule=lemma_sense-layer#viewPageContent) .
 
@@ -19,7 +19,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 **School of Computer Science and Engineering, ZheJiang Sci-Tech University(ZSTU)**
 - Sep 2021 - present
 - **junior undergraduate student**
-- GPA Ranking: **1/304**
+- GPA Ranking: **1/177（top 1%)**
 - Academic Mentor：Prof.[Shen Wei](https://baike.baidu.com/item/%E6%B2%88%E7%82%9C/50318566?fromModule=lemma_sense-layer#viewPageContent)
 
 
