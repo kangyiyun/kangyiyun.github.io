@@ -29,7 +29,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 <img src="https://kangyiyun.github.io/illustration.jpg" class="floatpic" width="260" height="180" style="float: right;">
 **Stabilizing Cement Burning System via Coal Injection Pipe Feeding Pressure Enabled Temperature Prediction**<br>
 Zengji Zhang, Dengming Yong, **Yiyun Kang**,Wei Shen, Xukang Lyu, Dongliang Chu<br>
-**Science Progress 2024 (SCI JCR:2 under review)**<br>
+(SCI JCR:2 under review)**<br>
+
 ---
 
 ## Research Interests
@@ -37,7 +38,7 @@ Zengji Zhang, Dengming Yong, **Yiyun Kang**,Wei Shen, Xukang Lyu, Dongliang Chu<
 - Deep Learning
 - Reinforcement Learning
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Deep Learning** and its applications in the real world. In a word, advanced technologies like DL and RL positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Deep Learning(CV & NLP)** and its applications in the real world. In a word, advanced technologies like DL and RL positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 <br>
 If you want to know more about me, welcome to view My [CV](https://kangyiyun.github.io/file/CV.pdf )
 <br>
