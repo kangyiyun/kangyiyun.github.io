@@ -40,7 +40,7 @@ Zengji Zhang, Dengming Yong, **Yiyun Kang**,Wei Shen, Xukang Lyu, Dongliang Chu<
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Deep Learning(CV & NLP)** and its applications in the real world. In a word, advanced technologies like Deep Learning positively influence the life of everybody.  I wish to devote my effort to this meaningful cause and bring well-being to society.
 <br>
-If you want to know more about me, welcome to view My [CV](https://kangyiyun.github.io/file/CV.pdf )
+If you want to know more about me, welcome to view My [CV](https://kangyiyun.github.io/file/CV.pdf ).
 <br>
 
 ---
